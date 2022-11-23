@@ -1,4 +1,7 @@
 
+#This is a fork;
+# For original repo see: https://github.com/danielhrisca/asammdf
+
 <img align=left src="https://raw.githubusercontent.com/danielhrisca/asammdf/master/asammdf.png" width="128" height="128" />
 
 <p align=center>
